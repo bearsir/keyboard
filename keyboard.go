@@ -1,5 +1,4 @@
-// get user input number
-
+// Package keyboard reads user input number
 package keyboard
 
 import (
